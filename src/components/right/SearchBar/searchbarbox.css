@@ -1,0 +1,15 @@
+.search_by_category{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+
+}
+.s_img{
+   width: 130px;
+   height: 130px;
+   border-radius: 10px;
+}
+.s_des{
+    color: rgba(187, 187, 187, 1);
+    margin: 10px 0px;
+}

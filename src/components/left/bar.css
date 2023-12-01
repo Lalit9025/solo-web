@@ -1,0 +1,23 @@
+.br{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+    background-color: rgba(37, 38, 45, 1);
+    width: 300px;
+    height: 100%;
+    position: fixed ;
+}
+.up{
+    margin:50px 20px ;
+}
+
+.br_icon_p{
+    color:rgba(106, 107, 111, 1);
+    margin: 10px;
+    
+
+}
+.br_icon_p:hover{
+    background-color: rgba(255, 255, 255, 1);
+}

@@ -1,0 +1,93 @@
+.pr_bx{    
+    width: 320px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: rgba(37, 38, 45, 1);
+    margin: 10px 0px;
+   
+}
+.prbx_img{
+    border-radius: 10px;    
+    width: 320px;
+    height: auto;
+    cursor: pointer;
+}
+.pr_userprofile{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    align-items: center;
+}
+.pr_c1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 280px;
+}
+.pr_userdetail{
+    display: flex;
+    align-items: center;
+   
+}
+.pr_cbox_img{
+    border-radius: 50px ;
+    height: 65px;
+    width: 65px;
+}
+.userdata{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 0px 10px;
+}
+.pr_username{
+    color: rgba(152, 242, 79, 1);
+    font-size: 14px;
+    margin: 3px;
+}
+.pr_originalname{
+    color: rgba(187, 187, 187, 1);
+    font-size: 14px;
+    margin: 3px;
+}
+.location{
+    display: flex;
+    align-items: center;
+}
+.location_name{
+    font-size: 12px;
+    color: rgba(187, 187, 187, 1);
+}
+.location_icon{
+    color: rgba(187, 187, 187, 1);
+}
+.pr_follower{
+    display: flex;
+    border-radius: 10px;
+    height: 65px;
+    width: 280px;
+    background: linear-gradient(180deg, rgba(79, 222, 242, 0.00) -46.21%, rgba(79, 222, 242, 0.20) 235.86%);
+    margin: 20px 0px;
+    justify-content: center;
+    align-items: center;
+
+}
+.fc-eng{
+  display: flex;
+  flex-direction: column;
+  margin: 0px 10px;
+  
+}
+.fc_number{
+font-weight: 500;
+color: rgba(248, 250, 252, 1);
+margin: 3px;
+font-size: 16px;
+}
+.fc_text{
+color: rgba(187, 187, 187, 1);
+font-size: 12px;
+margin: 3px;
+}

@@ -1,0 +1,39 @@
+.navbar{
+    display: inline-flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    height:45px ;
+    /* width: 600px; */
+    margin-top: 50px;
+}
+.nheading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 45px;
+    width: 115px;
+    cursor: pointer;
+}
+.Soloicon{
+width: 45.48px;
+height: 45px;
+}
+.Solo{
+    width: 62.25px;
+    height: 36.82px;
+}
+.nheading-option{
+    width: 340px;
+    display: flex;
+    align-items: center;
+}
+.desktopMenuListItem{
+    margin: 10px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+}
+.desktopMenuListItem:hover{
+    color: rgba(152, 242, 79, 1);
+    border-bottom: 2px solid rgba(152, 242, 79, 1);
+}

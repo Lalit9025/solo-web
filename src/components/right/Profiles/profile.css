@@ -1,0 +1,21 @@
+.profile_main{
+margin: 10px 0px;
+display: flex;
+flex-direction: column;
+}
+.profile_heading{
+    display: flex;
+    font-size: 32px;
+    color: rgba(152, 242, 79, 1);
+    text-align: left;
+    margin: 50px 0px 50px 0px;
+}
+.profile-component{
+    display: flex;
+    flex-direction: column;
+}
+.pc{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0px;
+}
